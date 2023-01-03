@@ -20,6 +20,10 @@ Primeiramente, vamos falar sobre sobre OpenCV que é a biblioteca mais popular e
 
 ## Básico
 
+### Importar a biblioteca OpenCV
+
+`import cv2`
+
 ### Ler e mostrar uma imagem
 
 Leitura (imread):
