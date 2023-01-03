@@ -18,3 +18,22 @@ Primeiramente, vamos falar sobre sobre OpenCV que é a biblioteca mais popular e
 `pip install opencv-python`
 
 
+## Básico
+
+### Ler e mostrar uma imagem
+
+Leitura (imread):
+
+`
+img = cv2.imread("Nome_da_imagem.jpg")
+`
+
+Exibição (imshow):
+
+`
+cv2.imshow("Nome_da_janela",img)
+`
+
+
+
+
